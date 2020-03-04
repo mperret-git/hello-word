@@ -1,2 +1,4 @@
 # hello-word
-Tutorial of git
+
+
+some changes
